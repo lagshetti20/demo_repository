@@ -6,3 +6,4 @@ m=a*b
 print("Multiplication is :",m)
 s=a-b
 print("Substraction is :",s)
+print("namrata lagshetti")

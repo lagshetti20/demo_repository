@@ -8,3 +8,8 @@ s=a-b
 print("Substraction is :",s)
 print(""namrata lagshetti")
 print("HEllo world")
+# another approach
+print(int(input("Enter 1st number"))+int(input("Enter 2nd number")))
+      
+      
+      
